@@ -1,5 +1,5 @@
-#Banking System - Object-Oriented Programming in Python
-##Overview
+# Banking System - Object-Oriented Programming in Python
+## Overview
 
 This project was developed with the purpose of improving my knowledge of **Object-Oriented Programming (OOP)** using Python.
 During the development, several important OOP concepts and Python features were explored and implemented in practice.
@@ -8,8 +8,8 @@ The system simulates a simple banking environment, applying good programming pra
 
 ---
 
-**##Concepts Practiced**
-**###Object-Oriented Programming (OOP)**
+**## Concepts Practiced**
+**### Object-Oriented Programming (OOP)**
 
 The project was built following the main pillars of OOP:
 
@@ -26,8 +26,8 @@ The project was built following the main pillars of OOP:
 
 ---
 
-**##Python Features and Libraries Used**
-###`abc`**Module**
+**## Python Features and Libraries Used**
+### `abc`**Module**
 
 The project uses Python's built-in `abc` module to create abstract base classes.
 
@@ -38,7 +38,7 @@ This allowed the creation of generic structures that must be implemented by subc
 
 ---
 
-###`@abstractmethod`
+### `@abstractmethod`
 
 Abstract methods were used to enforce method implementation in derived classes.
 
@@ -52,7 +52,7 @@ def withdraw(self, amount):
 
 ---
 
-###`super()`
+### `super()`
 
 The `super()` function was used to access constructors and methods from parent classes.
 
@@ -65,7 +65,7 @@ This improves code reuse and avoids duplication.
 
 ---
 
-###Constructors (`__init__`)
+### Constructors (`__init__`)
 
 Constructors were implemented to initialize object attributes when instances are created.
 
@@ -80,7 +80,7 @@ def __init__(self, balance, number, agency):
 
 ---
 
-###Properties (`@property`)
+### Properties (`@property`)
 
 Properties were used to safely expose internal attributes.
 
@@ -94,7 +94,7 @@ def balance(self):
 
 ---
 
-##Project Goals
+## Project Goals
 
 The main goal of this project was to strengthen practical knowledge in:
 
@@ -107,6 +107,6 @@ The main goal of this project was to strengthen practical knowledge in:
 
 ---
 
-##Technologies Used
+## Technologies Used
 - Python 3
 - `abc` module
