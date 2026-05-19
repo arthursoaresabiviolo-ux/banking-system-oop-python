@@ -8,8 +8,9 @@ The system simulates a simple banking environment, applying good programming pra
 
 ---
 
-**## Concepts Practiced**
-**### Object-Oriented Programming (OOP)**
+## Concepts Practiced
+
+### Object-Oriented Programming (OOP)
 
 The project was built following the main pillars of OOP:
 
@@ -26,7 +27,7 @@ The project was built following the main pillars of OOP:
 
 ---
 
-**## Python Features and Libraries Used**
+## Python Features and Libraries Used
 ### `abc`**Module**
 
 The project uses Python's built-in `abc` module to create abstract base classes.
